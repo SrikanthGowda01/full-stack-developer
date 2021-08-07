@@ -1,6 +1,0 @@
-CMD
->git init
->git remote add origin https://github.com/SrikanthGowda01/full-stack-developer.git
->git config --global user.name "SrikanthGowda01" 
-
->git config --global user.email "Srigowda.2735@gmail.com"
