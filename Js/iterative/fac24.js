@@ -1,4 +1,8 @@
-let i=24;
-while(i % number <=24 ){
+let i=1;
+while(i <= 24 ){
+    if(24 % i == 0){
     console.log(i);
+    }
+    i++;
+    
 }
